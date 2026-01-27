@@ -1,5 +1,5 @@
 # Bandit 3
-Bandit 3 command to login to ssh with username: bandit3 and port 2220 -> 
+Bandit 3 command to login to ssh with username: bandit3, password: <from Bandit 2>, and port 2220 -> 
 
 **ssh -l bandit3 -p 2220 bandit.labs.overthewire.org**
 
