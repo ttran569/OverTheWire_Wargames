@@ -1,5 +1,5 @@
 # Bandit 8
-Bandit 8 command to login to ssh with username: bandit8, password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc, and port 2220 -> 
+Bandit 8 command to login to ssh with username: bandit8 and port 2220 -> 
 
 **ssh -l bandit8 -p 2220 bandit.labs.overthewire.org**
 
