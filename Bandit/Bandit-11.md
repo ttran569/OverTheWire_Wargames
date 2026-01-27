@@ -5,4 +5,3 @@ Bandit 11 command to login to ssh with username: bandit11, password: dtR173fZKb0
 
 Bandit 11 to Bandit 12 command to find and read contents of data.txt shuffled by ROT13: **cat data.txt | tr [N-ZA-Mn-za-m] [A-Za-z]**
 
-Contents of data.txt file shuffled by ROT13 -> password: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
