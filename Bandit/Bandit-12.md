@@ -45,5 +45,3 @@ while true; do
     fi
 done
 ```
-
-Contents of data8.bin_unzipped file found from decompressing hexdump file -> password: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
