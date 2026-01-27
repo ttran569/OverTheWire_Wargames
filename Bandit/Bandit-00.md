@@ -6,5 +6,3 @@ Bandit 0 command to login to ssh with username: bandit0, password: bandit0, and 
 (-l username -p port #)
 
 Bandit 0 to Bandit 1 command to find and read contents of readme file: **cat readme**
-
-Contents of readme -> password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
